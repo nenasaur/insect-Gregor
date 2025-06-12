@@ -5,3 +5,5 @@
 ° Inspirado principalmente no isolamento de Kafka após a metamorfose, evitando contato com outras pessoas.
 
 ° A equipe está trabalhando para disponibilizar um arquivo PDF neste repositório para oferecer mais informações técnicas do robô e aprofundar-se na relação com o livro.
+
+° link da simulação do circuito utilizando o simulador TinkerCad : https://www.tinkercad.com/things/kiLQcWR76gk-robo-gregor
